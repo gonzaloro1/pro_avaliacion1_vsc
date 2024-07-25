@@ -8,7 +8,7 @@ class compi12 {
 		Scanner teclado = new Scanner(System.in);
 		int num1, num2;
 
-		System.out.print("Ingrese primer valor: ");
+		System.out.print("\nIngrese primer valor: ");
 		num1 = teclado.nextInt();
 		System.out.print("Ingrese segundo valor: ");
 		num2 = teclado.nextInt();
