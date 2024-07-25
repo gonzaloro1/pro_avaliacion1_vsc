@@ -1,0 +1,21 @@
+
+git init
+
+git status -s
+
+git add .
+
+git status -s
+
+git commit -m "primer commit"
+
+git log --oneline
+
+git branch -M main
+
+git remote add origin git@github.com:gonzaloro1/pro_avaliacion1_vsc.git
+
+git push -u origin main
+
+
+
